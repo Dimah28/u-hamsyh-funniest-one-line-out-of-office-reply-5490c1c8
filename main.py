@@ -8,12 +8,16 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (default /output/entry.txt).
 
 Gate: the file must be UTF-8 text of 1-160 characters, a single line,
 not only whitespace, with no control characters or tabs.
+
+Revised entry (124 chars, playbook winner-study-20261125):
+one mechanism, three beats (reads everything / answers nothing /
+forwards it all back to me), twist at the end, specific role.
 """
 
 import os
 import sys
 
-REPLY = "I'm away until Monday. Dave is covering for me. Dave has been on holiday since Tuesday."
+REPLY = "Out until Friday. For anything urgent, contact my manager \u2014 he reads every email, answers none, and forwards them all to me."
 
 MIN_LENGTH = 1
 MAX_LENGTH = 160
