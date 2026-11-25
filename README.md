@@ -1,8 +1,8 @@
 # Funniest One-Line Out-of-Office Reply
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/c/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
-[![Prize $2](https://img.shields.io/badge/prize-%242-brightgreen)](https://make.fun/c/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue)](https://make.fun/c/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
+[![make.fun · u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
+[![rank](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/Dimah28/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/rank.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
+[![reward](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/Dimah28/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/reward.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
 
 Entry for the [Funniest One-Line Out-of-Office Reply](https://make.fun/c/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8) bounty on make.fun ($2, top 3).
 
